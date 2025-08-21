@@ -82,7 +82,7 @@ This project is released under the MIT License.
 ## Author
 
 - **voltsparx**  
-  Contact: voltsparx@204
+  Contact: voltsparx@gmail.com
 
 ---
 
