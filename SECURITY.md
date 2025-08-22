@@ -2,7 +2,7 @@
 
 ## Reporting Security Issues
 
-If you discover a security vulnerability in Py-DDoS Simulator, please report it privately by emailing **voltsparx@204**.
+If you discover a security vulnerability in Py-DDoS Simulator, please report it privately by emailing **voltsparx@gmail.com**.
 
 Do **not** create public issues for security problems.
 
